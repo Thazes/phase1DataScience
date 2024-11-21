@@ -21,25 +21,25 @@ https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 I used the following tools for my analysis and presentation:
 
-1 Anaconda Jupyter notebook for my data clean up and analysis of the data.
-2 Tableaue public for creating dynamic visualizations
-3 Github repository for version control
+* Anaconda Jupyter notebook for my data clean up and analysis of the data.
+* Tableaue public for creating dynamic visualizations
+* Github repository for version control
 
 ### Steps used in data analysis
-1 I first analysed the data by getting number of null values at each column
-2 I dropped all columns with null percentage values of over 40%
-3 I cleaned the rest of the columns using measures of central tendecy that is the mean and median
-4 I the identified a columns that I could used to analyse the data. The columns used were Make, model and Injury severity
-5 From the analysis I recommended an aircraft therefore answering the problem Statement
+* I first analysed the data by getting number of null values at each column
+* I dropped all columns with null percentage values of over 40%
+* I cleaned the rest of the columns using measures of central tendecy that is the mean and median
+* I the identified a columns that I could used to analyse the data. The columns used were Make, model and Injury severity
+* From the analysis I recommended an aircraft therefore answering the problem Statement
 
 
 ####
 Files  located in git repository
 
-1 AircraftAnalysisDashboard.png- Tableu photo of the visulaizations of the dataset
-2 AviationData.csv- Original dataset gotten from kaggle
-3 cleaned_aviation.csv- Cleaned dataset that was used to draw the tableu visualizations
-4 phase1Project.ipynb- Notebook that contains my analysis
+* AircraftAnalysisDashboard.png- Tableu photo of the visulaizations of the dataset
+* AviationData.csv- Original dataset gotten from kaggle
+* cleaned_aviation.csv- Cleaned dataset that was used to draw the tableu visualizations
+* phase1Project.ipynb- Notebook that contains my analysis
 
 #### Link to tableue data visualizations
 
